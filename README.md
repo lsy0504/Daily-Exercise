@@ -1,3 +1,3 @@
-# demo1
+# Daily Exercise
 仅供个人练习\
 上传洛谷练习题、acwing练习题代码等......
