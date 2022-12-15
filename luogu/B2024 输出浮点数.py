@@ -1,0 +1,5 @@
+x = float(input())
+print("%f"%(x))
+print("%.5f"%(x))
+print("%e"%(x))
+print("%g"%(x))
